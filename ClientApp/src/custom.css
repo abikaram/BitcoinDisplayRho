@@ -1,0 +1,74 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,700&display=swap');
+
+*{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#current, #historical {
+    color: white;
+    border: solid 5px white;
+    text-align: center;
+    padding: 20px;
+    margin: 50px;
+    border-radius: 25px;
+}
+
+#current {
+    background-color: crimson;
+}
+
+#historical {
+    background-color: deepskyblue;
+}
+
+body {
+    background-image: url("images/btc_icon.png");
+    animation: mymove 10s infinite;
+}
+
+@keyframes mymove {
+    0%, 100% {
+        background-color: lightgreen;
+    }
+
+    25%, 75% {
+        background-color: lightsalmon;
+    }
+
+    50% {
+        background-color: plum;
+    }
+}
+
+header {
+    background-color: white;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    text-align: left;
+}
+
+#bottomButton {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    text-align: left;
+}
