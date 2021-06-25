@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/BitcoinDisplayRho/static/css/main.40d99dc7.chunk.css",
+    "main.js": "/BitcoinDisplayRho/static/js/main.1d4b1dd7.chunk.js",
+    "main.js.map": "/BitcoinDisplayRho/static/js/main.1d4b1dd7.chunk.js.map",
+    "runtime-main.js": "/BitcoinDisplayRho/static/js/runtime-main.21ae7883.js",
+    "runtime-main.js.map": "/BitcoinDisplayRho/static/js/runtime-main.21ae7883.js.map",
+    "static/css/2.56e33495.chunk.css": "/BitcoinDisplayRho/static/css/2.56e33495.chunk.css",
+    "static/js/2.2c241f98.chunk.js": "/BitcoinDisplayRho/static/js/2.2c241f98.chunk.js",
+    "static/js/2.2c241f98.chunk.js.map": "/BitcoinDisplayRho/static/js/2.2c241f98.chunk.js.map",
+    "index.html": "/BitcoinDisplayRho/index.html",
+    "precache-manifest.3151e801dff6429080dd3fb36ea3881b.js": "/BitcoinDisplayRho/precache-manifest.3151e801dff6429080dd3fb36ea3881b.js",
+    "service-worker.js": "/BitcoinDisplayRho/service-worker.js",
+    "static/css/2.56e33495.chunk.css.map": "/BitcoinDisplayRho/static/css/2.56e33495.chunk.css.map",
+    "static/css/main.40d99dc7.chunk.css.map": "/BitcoinDisplayRho/static/css/main.40d99dc7.chunk.css.map",
+    "static/js/2.2c241f98.chunk.js.LICENSE.txt": "/BitcoinDisplayRho/static/js/2.2c241f98.chunk.js.LICENSE.txt",
+    "static/media/custom.css": "/BitcoinDisplayRho/static/media/btc_icon.fe2d1cb0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21ae7883.js",
+    "static/css/2.56e33495.chunk.css",
+    "static/js/2.2c241f98.chunk.js",
+    "static/css/main.40d99dc7.chunk.css",
+    "static/js/main.1d4b1dd7.chunk.js"
+  ]
+}
